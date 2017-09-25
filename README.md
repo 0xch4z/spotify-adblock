@@ -6,7 +6,7 @@
 ```bash
   $ wget https://raw.githubusercontent.com/Charliekenney23/spotify-adblock/master/block.sh
   $ sudo chmod u+x block.sh
-  $ ./block.sh
+  $ sudo ./block.sh
 ```
 
 <h3>License</h3>
