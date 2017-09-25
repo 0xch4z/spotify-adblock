@@ -4,12 +4,12 @@
 <h3>Installation</h3>
 
 ```bash
-  $ wget $FILE
+  $ wget https://raw.githubusercontent.com/Charliekenney23/spotify-adblock/master/block.sh
   $ sudo chmod u+x block.sh
   $ ./block.sh
 ```
 
 <h3>License</h3>
 <p>
-  MIT © <a href="https://github.com/charliekenney23"></a>
+  MIT © <a href="https://github.com/charliekenney23">Charles Kenney</a>
 </p>
